@@ -38,3 +38,7 @@ Grade is focus and direction.
 
 Focus - grandeur of size, intensity, detail.\
 Direction - secondary or to the main.
+
+> [!TIP]
+> All this must be clearly in elements
+
