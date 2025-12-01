@@ -25,16 +25,16 @@ Example: "relief"
 # Pattern & grade
 ### How one differs from the other?
 
-Patters is stability, behaviors, analyticity.\
+Patters is stability, behaviors, analyticity.
 
 > [!TIP]
 > All interface elements have a patters and a grade. They are similar in patters and differ in grade.
 
 Stability - permanency and distinctness.\
 Behaviors - These are reactions to events, typical interactions, and resolve making.\
-Analyticity - Scaning identification.\
+Analyticity - Scaning identification.
 
-Grade is focus and direction.\
+Grade is focus and direction.
 
 Focus - grandeur of size, intensity, detail.\
 Direction - secondary or to the main.
