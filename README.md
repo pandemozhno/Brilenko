@@ -1,5 +1,5 @@
 # Brilenko
-Cascadian design method for interaction interfaces name by "Brilenko"
+Cascading design method for interaction interfaces name by "Brilenko"
 
 > [!IMPORTANT]
 > We simplified and iconicity interfaces. But it's right to add grandeur and particular qualities. Simple button is not key.
