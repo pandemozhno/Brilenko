@@ -19,3 +19,9 @@ Example: "Anna, 28 years old, marketer, who uses the service to quickly find sta
 
 > [!TIP]
 > Every interface contains emotion. Emotion can be expressed in any way: colors, shapes, images, text, animation.
+
+Example: "relief"
+
+# Pattern & measure
+### How one differs from the other
+
